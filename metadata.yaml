@@ -1,5 +1,8 @@
 _repo: The-Wright-Brothers_67672
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67672-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, Fred C. (Fred Charters)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54391
     wikipedia: https://en.wikipedia.org/wiki/Fred_C._Kelly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67672#The-Wright-Brothers
 gutenberg_issued: '2022-03-21'
 identifiers:
   gutenberg: '67672'
